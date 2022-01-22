@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: rgb(143, 80, 243);
+    border-radius:2px;
+}
+header a {
+    color: rgb(255, 198, 252);
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: blueviolet;
+    border: solid rgb(51, 0, 51);
+    border-radius: 2px;
+    background-color: rgb(51, 0, 80);
+} 
+footer  {
+    color: rgb(216, 169, 255);
+    text-align: center;
+    background-color: rgb(50, 0, 70);
+    border-radius: 5px;
+    padding: 5px;
+    border: solid rgb(89, 0, 116);
+} 
+nav a {
+    font-size: 20px;
+    color: rgb(121, 0, 190);
+    border:solid rgb(94, 0, 172);
+    border-radius: 7px;
+    padding: 1px;
+    text-decoration: none;
+    margin: 4px;
+} 
+p img {
+    background-color: rgb(175, 14, 175);
+    border: solid rgb(48, 0, 48);
+    border-radius: 7px;
+} 
+main p {
+    color: rgb(82, 0, 153);
+} 
+h2,h3,h4 {
+    text-align: center; 
+     color: rgb(25, 0, 39);
+} 
+main a {
+   color: blueviolet;
+   border: solid rgb(60, 0, 138);
+   border-radius: 5px; 
+   margin: 8px;
+   padding: 3px;
+   text-decoration: none;
+}
+main {
+    margin: 10px;
+}
